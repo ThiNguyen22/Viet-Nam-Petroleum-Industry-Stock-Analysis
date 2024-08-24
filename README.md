@@ -1,4 +1,4 @@
-# Viet-Nam-Petroleum-Stock-Analysis Q2 2024
+# Viet-Nam-Petroleum-Industry-Analysis Q2 2024
 
 This project involves analyzing the financial and operational performance of companies in the Vietnamese petroleum and steel industries for Q1 and Q2 2024 using Power BI. The goal is to provide investors with insights and key metrics to support informed decision-making.
 

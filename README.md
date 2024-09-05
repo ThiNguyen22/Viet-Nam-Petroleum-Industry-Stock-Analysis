@@ -1,6 +1,6 @@
 # Viet-Nam-Petroleum-Industry-Analysis Q2 2024
 
-This project involves analyzing the financial and operational performance of companies in the Vietnamese petroleum and steel industries for Q1 and Q2 2024 using Power BI. The goal is to provide investors with insights and key metrics to support informed decision-making.
+This project involves analyzing the financial and operational performance of companies in the Vietnamese petroleum industries for Q1 and Q2 2024 using Power BI. The goal is to provide investors with insights and key metrics to support informed decision-making.
 
 ## Acknowledgements
 https://einvoice.vn/tin-tuc/cac-chi-so-tai-chinh-doanh-nghiep-dang-luu-y-danh-cho-nguoi-quan-tri-va-nha-dau-tu
@@ -35,9 +35,6 @@ The requirements.txt file lists all the required Python libraries and they will 
 •  Key Insights: Detailed analysis of unusual trends and important financial indicators that could impact investment decisions.
 
 •  Combining data: The paragraphs retrieved from the database are combined with the original user query to create a prompt.
-
-## Result
-
 
 ## Feedback
 
